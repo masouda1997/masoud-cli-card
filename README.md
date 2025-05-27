@@ -9,7 +9,7 @@ You can install this CLI card globally via [npm](https://www.npmjs.com/):
 ```bash
 npm install -g masoud-cli-card
 ```
-### or you can simply use:
+### you can simply use below command without need of installation:
 ```bash
 npx masoud@latest
 ```
