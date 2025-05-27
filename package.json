@@ -1,0 +1,27 @@
+{
+  "name": "masoud",
+  "version": "1.0.2",
+  "description": "A personal CLI card for Masoud",
+  "main": "bin.js",
+  "bin": {
+    "masoud": "./bin.js"
+  },
+  "scripts": {
+    "start": "node bin.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CLI",
+    "resume",
+    "portfolio",
+    "masoud",
+    "terminal",
+    "developer"
+  ],
+  "author": "Masoud Anaraki <masoud.anaraki97@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2"
+  }
+}
