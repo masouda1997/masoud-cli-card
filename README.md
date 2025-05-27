@@ -1,6 +1,6 @@
 # 🪪 masoud-cli-card
 
-> A simple CLI business card built with Node.js that displays Masoud Anaraki's professional contact info directly in your terminal.
+> A simple CLI business card built with Node.js that displays my professional contact info directly in your terminal.
 
 ## 📦 Installation
 
